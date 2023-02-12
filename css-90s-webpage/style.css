@@ -1,0 +1,49 @@
+div{
+  width: 800px;
+  height: 800px;
+  text-align:center;
+  background-image: url(img/window.png);
+  background-repeat: no-repeat;
+  image-orientation:;
+  margin:0 auto;
+ 
+}
+
+
+
+
+
+
+h1 {
+    color: blueviolet;
+    text-align: center;
+    padding-block: 4rem;
+    padding-top: 10rem;
+
+}
+ 
+
+  p {
+    color: blueviolet;
+    text-align: center;
+    font-size: 1.5rem;
+    
+  }
+
+ 
+title {
+  text-align: center;
+  color: blueviolet;
+}
+header{
+  text-align: center;
+  image-orientation: 0rad;
+  
+}
+body{
+  background-image: url(img/emoji.png);
+  background-repeat: round;
+  background-color: black;
+}
+
+  
